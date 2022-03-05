@@ -1,16 +1,15 @@
-### Hi there 👋
+# Hi there 👋, my name is YongLiu.
+A programmer who loves guitar, Typing Csharp and Python.
 
-<!--
-**guitarliu/guitarliu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Skills and Experience
+- 🐍 Python
+- 💻 C#
 
-Here are some ideas to get you started:
+## Current Statution
+- 🔭 I’m currently working on AutoCAD Plugins Development in Python
+- 🌱 I’m currently learning C# and Python 
 
-- 🔭 I’m currently working on Designing!
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/guitarliu) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](guitarliu.github.io)  
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=guitarliu&show_icons=true)
