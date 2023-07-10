@@ -5,6 +5,7 @@ A programmer who loves guitar, Typing Csharp and Python.
 - 🐍 Python
 - 💻 C#
 - 🔥 C
+- 🎈 Javascript
 
 ## Current Statution
 - 🔭 I’m currently working on AutoCAD Plugins Development in Python
