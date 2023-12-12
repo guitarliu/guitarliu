@@ -7,7 +7,7 @@ A programmer who loves guitar, Typing Csharp and Python.
 - 🔥 C
 - 🎈 Javascript
 
-<a href="link_to_your_work">Your Work</a>
+<a href="https://guitarliu.link">Your Work</a>
 <img src="https://guitarliu.link/images/logo.svg" alt="Work Image">
 
 
