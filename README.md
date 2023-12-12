@@ -7,8 +7,8 @@ A programmer who loves guitar, Typing Csharp and Python.
 - 🔥 C
 - 🎈 Javascript
 
-<a href="https://guitarliu.link">PDF-Rotate-Tool</a>
-<img src="https://guitarliu.link/images/logo.svg" alt="Work Image">
+## Projects
+<img src="https://guitarliu.link/images/logo.svg" alt="PDF-Rotate-Tool">
 
 
 ## Current Statution
