@@ -7,6 +7,10 @@ A programmer who loves guitar, Typing Csharp and Python.
 - 🔥 C
 - 🎈 Javascript
 
+<a href="link_to_your_work">Your Work</a>
+<img src="https://guitarliu.link/images/logo.svg" alt="Work Image">
+
+
 ## Current Statution
 - 🔭 I’m currently working on AutoCAD Plugins Development in Python
 - 🌱 I’m currently trying to rewrite AutoCAD Python-Plugins with C#
