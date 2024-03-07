@@ -9,6 +9,7 @@ A programmer who loves guitar, Typing Csharp and Python.
 
 ## Projects
 [![PDF-Rotate-Tool](https://guitarliu.link/images/logo.svg "PDF-Rotate-Tool，一个在线旋转PDF的网站")](https://guitarliu.link)
+[![HydroCalcter](https://hydrocalcter.pages.dev/images/basicdatalogo.png "HydroCalcter，一个在线厂站计算书及模型生成网站")](https://hydrocalcter.pages.dev/)
 
 ## Current Statution
 - 🔭 I’m currently working on AutoCAD Plugins Development in Python
