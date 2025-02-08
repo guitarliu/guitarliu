@@ -70,7 +70,8 @@ A passionate programmer who loves **guitar**, **C#**, and **Python**.
 
 ### 🔗 Let's Connect  
 
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="GitHub" height="30" style="filter: hue-rotate(270deg);" />](https://github.com/guitarliu)  &nbsp;&nbsp;&nbsp;  [<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="YouTube" height="30" style="filter: hue-rotate(0deg);" />](https://www.youtube.com/@SpaceTools-code)
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="GitHub" height="30" style="color: #8a2be2; filter: invert(20%) sepia(50%) saturate(180%) hue-rotate(1000deg);" />](https://github.com/guitarliu)  &nbsp;&nbsp;&nbsp;  [<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="YouTube" height="30" style="color: #FF0000; filter: invert(60%) sepia(70%) saturate(4000%) hue-rotate(320deg);" />](https://www.youtube.com/@SpaceTools-code)
+
 
 ---
 
