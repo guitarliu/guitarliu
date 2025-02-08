@@ -10,9 +10,17 @@ A passionate programmer who loves **guitar**, **C#**, and **Python**.
 
 🔴 **YouTube Channel:** [SpaceTools](https://www.youtube.com/@SpaceTools-code) 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3aY0c64YzYI?si=CFwALzzvRUcTEWCT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen style="border-radius: 12px"></iframe> &nbsp;&nbsp;&nbsp;&nbsp;
+### 📺 Latest YouTube Videos
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cMfhjsr5_XA?si=gQx8BgSxwXrRztLU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen style="border-radius: 12px"></iframe>
+<div style="display: flex; justify-content: center; gap: 15px;">
+  <a href="https://www.youtube.com/watch?v=3aY0c64YzYI">
+    <img src="https://img.youtube.com/vi/3aY0c64YzYI/0.jpg" width="500" style="border-radius: 12px;">
+  </a>
+  <a href="https://www.youtube.com/watch?v=cMfhjsr5_XA">
+    <img src="https://img.youtube.com/vi/cMfhjsr5_XA/0.jpg" width="500" style="border-radius: 12px;">
+  </a>
+</div>
+
 
 📢 **WeChat Official Account:** **SpaceTools**
 
