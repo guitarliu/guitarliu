@@ -12,10 +12,11 @@ A passionate programmer who loves **guitar**, **C#**, and **Python**.
 
 ### 📺 Latest YouTube Videos
 
-<div style="display: flex; justify-content: center; gap: 15px;">
+<div style="display: flex; justify-content: center; gap: 30px;">
   <a href="https://www.youtube.com/watch?v=3aY0c64YzYI">
     <img src="https://img.youtube.com/vi/3aY0c64YzYI/0.jpg" width="300" style="border-radius: 12px;">
   </a>
+  
   <a href="https://www.youtube.com/watch?v=cMfhjsr5_XA">
     <img src="https://img.youtube.com/vi/cMfhjsr5_XA/0.jpg" width="300" style="border-radius: 12px;">
   </a>
