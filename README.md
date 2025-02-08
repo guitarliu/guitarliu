@@ -26,7 +26,7 @@ A passionate programmer who loves **guitar**, **C#**, and **Python**.
 📢 **WeChat Official Account:** **SpaceTools**
 
 <div align="left">  
-  <img src="https://pub-eb4d193b9a814125a65c71bdc18ad5d0.r2.dev/wechat-qrcode.webp" width="300" style="border-radius: 12px">
+  <img src="https://pub-eb4d193b9a814125a65c71bdc18ad5d0.r2.dev/wechat-qrcode.webp" width="200" style="border-radius: 12px">
 </div>  
 
 ---
