@@ -13,13 +13,13 @@ A passionate programmer who loves **guitar**, **C#**, and **Python**.
 ### 📺 Latest YouTube Videos
 
 <div style="display: flex; justify-content: center; gap: 30px;">
-  <a href="https://www.youtube.com/watch?v=3aY0c64YzYI">
-    <img src="https://img.youtube.com/vi/3aY0c64YzYI/0.jpg" width="300" style="border-radius: 12px;">
-  </a>
+<a href="https://www.youtube.com/watch?v=3aY0c64YzYI">
+<img src="https://img.youtube.com/vi/3aY0c64YzYI/0.jpg" width="300" style="border-radius: 12px;">
+</a>
   
-  <a href="https://www.youtube.com/watch?v=cMfhjsr5_XA">
-    <img src="https://img.youtube.com/vi/cMfhjsr5_XA/0.jpg" width="300" style="border-radius: 12px;">
-  </a>
+<a href="https://www.youtube.com/watch?v=cMfhjsr5_XA">
+<img src="https://img.youtube.com/vi/cMfhjsr5_XA/0.jpg" width="300" style="border-radius: 12px;">
+</a>
 </div>
 
 
@@ -42,16 +42,16 @@ A passionate programmer who loves **guitar**, **C#**, and **Python**.
 
 📌 **Useful Tools & Apps**  
 
-<div align="center">  
+<div align="center" style="gap:30px">  
 
 <a href="https://github.com/guitarliu/DwaCalctor" target="_blank">
-  <img src="https://github.com/guitarliu/DwaCalctor/raw/main/screen_shot1.png" width="300" height="180" style="border-radius: 12px; margin: 10px; object-fit: cover;">
+<img src="https://github.com/guitarliu/DwaCalctor/raw/main/screen_shot1.png" width="300" height="180" style="border-radius: 12px; margin: 10px; object-fit: cover;">
 </a>  
 <a href="https://pdf-rotate-tool.pages.dev/" target="_blank">
-  <img src="https://pub-eb4d193b9a814125a65c71bdc18ad5d0.r2.dev/pdf-rotate-tool.webp" width="300" height="180" style="border-radius: 12px; margin: 10px; object-fit: cover;">
+<img src="https://pub-eb4d193b9a814125a65c71bdc18ad5d0.r2.dev/pdf-rotate-tool.webp" width="300" height="180" style="border-radius: 12px; margin: 10px; object-fit: cover;">
 </a>  
 <a href="https://hydrocalcter.pages.dev/" target="_blank">
-  <img src="https://pub-eb4d193b9a814125a65c71bdc18ad5d0.r2.dev/wastewater.webp" width="300" height="180" style="border-radius: 12px; margin: 10px; object-fit: cover;">
+<img src="https://pub-eb4d193b9a814125a65c71bdc18ad5d0.r2.dev/wastewater.webp" width="300" height="180" style="border-radius: 12px; margin: 10px; object-fit: cover;">
 </a>  
 
 </div>  
