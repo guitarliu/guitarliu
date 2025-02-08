@@ -12,7 +12,7 @@ A passionate programmer who loves **guitar**, **C#**, and **Python**.
 
 ### 📺 Latest YouTube Videos
 
-<div style="text-align: center;">
+<div align="center">
   <a href="https://www.youtube.com/watch?v=3aY0c64YzYI" style="display: inline-block; margin-right: 30px;">
     <img src="https://img.youtube.com/vi/3aY0c64YzYI/0.jpg" width="300" style="border-radius: 12px;">
   </a>
@@ -42,7 +42,7 @@ A passionate programmer who loves **guitar**, **C#**, and **Python**.
 
 📌 **Useful Tools & Apps**  
 
-<div align="center">  
+<div align="left">  
 
 <a href="https://github.com/guitarliu/DwaCalctor" target="_blank">
 <img src="https://github.com/guitarliu/DwaCalctor/raw/main/screen_shot1.png" width="300" height="180" style="border-radius: 12px; margin: 20px; object-fit: cover;">
